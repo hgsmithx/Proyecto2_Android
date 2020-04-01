@@ -48,7 +48,7 @@ public class Detalle extends AppCompatActivity {
         txtPrecio = findViewById(R.id.txtPrecio);
 
        //Recepción de los datos del sandwich
-        nombre1 = ("SANDWICH ") + RecibirSandwich.getStringExtra("nombre");
+        nombre1 = ("Sandwich ") + RecibirSandwich.getStringExtra("nombre");
         descripcion = RecibirSandwich.getIntExtra("descripcion",0);
         precio = RecibirSandwich.getStringExtra("precio");
         rutaImage = RecibirSandwich.getIntExtra("id", 0);
