@@ -22,7 +22,7 @@
         android:layout_marginTop="16dp"
         android:gravity="start"
         android:text="Nombre Sandwich"
-        android:textSize="18dp"
+        android:textSize="19dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.966"
         app:layout_constraintStart_toStartOf="parent"
