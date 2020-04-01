@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/Fondo">
+
+<!--Linear layout con horientacion vertical-->
+
+
+
+    <Button
+        android:id="@+id/idChacarero"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/shadow"
+        android:text="@string/Chacarero"
+        android:textColor="@color/Letras"
+        android:textSize="24dp">
+    </Button>
+
+
+    <Button
+        android:id="@+id/idChemilico"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="40dp"
+        android:text="@string/chemilico"
+        android:textSize="24dp"
+        android:textColor="@color/Letras"
+        android:background="@drawable/shadow"/>
+
+    <Button
+        android:id="@+id/idBarrosLuco"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="40dp"
+        android:text="@string/barrosLuco"
+        android:textSize="24dp"
+        android:textColor="@color/Letras"
+        android:background="@drawable/shadow"/>
+
+    <Button
+        android:id="@+id/idItaliano"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="40dp"
+        android:text="@string/italiano"
+        android:textSize="24dp"
+        android:textColor="@color/Letras"
+        android:background="@drawable/shadow"/>
+
+    <Button
+        android:id="@+id/idLomito"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="40dp"
+        android:text="@string/lomito"
+        android:textSize="24dp"
+        android:textColor="@color/Letras"
+        android:background="@drawable/shadow"/>
+
+</LinearLayout>

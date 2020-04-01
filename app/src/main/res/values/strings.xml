@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">FastFood</string>
+    <string name="fastfood">Fast Food</string>
+    <string name="btnsandwich">Sandwiches</string>
+    <string name="btnsobrenosotros">Sobre Nosotros</string>
+    <string name="italiano">Italiano</string>
+    <string name="Chacarero">Chacarero</string>
+    <string name="barrosLuco">Barros Luco</string>
+    <string name="chemilico">Chemilico</string>
+    <string name="lomito">Lomito</string>
+    <string name="descripcion">Somos una empresa de la region
+    con mas de 10 años de experiencia realizando sandwiches de la zona, si no chorrea no es Fast Food!</string>
+    <string name="DetalleItaliano">
+        400 gramos de bistec de posta rosada o asiento, delgados a temperatura ambiente,
+        2 paltas grandecitas1 tomate grande y maduro y 2 panes fricas
+    </string>
+    <string name="DetalleChemilico">
+        Delicioso Sandwich que contiene 2 bistecs de posta delgados, 1 cebolla, 2 huevos, 2 panes amasados y
+        2 bistecs de posta delgados
+    </string>
+    <string name="DetalleBarrosluco">
+        Un clasico sandwich, contiene 1 marraqueta completa o 2 fricas o pan de sandwich con buena miga,4 bistecs cortados para milanesa,
+        4 rebanadas de queso chanco,mantequilla derretida,sal y pimienta
+    </string>
+    <string name="DetalleChacarero">
+        1 marraqueta, 1 bistec de posta, porotos verdes y 1 rico tomate recolecatado de nuestros campos.
+        mantequilla
+    </string>
+    <string name="DetalleLomito">
+        Contiene
+        1 trozo lomo de cerdo,
+    1 cucharadita orégano,
+    1 cucharadita mostaza,
+    1/2 vaso vino blanco,
+    1 vaso agua,
+    1 hoja laurel,
+    Sal y
+    Pimienta
+    </string>
+
+</resources>
